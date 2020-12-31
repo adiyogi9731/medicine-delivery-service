@@ -1,0 +1,22 @@
+body{
+background:#eee;
+}
+#frm{
+border:1px solid gray;
+width:20%;
+border-radius:5px;
+margin:100px auto;
+background:white;
+font-size:18px;
+padding:100px;
+}
+#btn{
+color:#fff;
+background:#337ab7;
+padding:10px;
+margin-left:50%;
+}
+h3{
+text-align:center;
+padding:20px;
+}

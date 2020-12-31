@@ -1,0 +1,42 @@
+﻿body
+{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBkhtSCFhM7183LyV1NOm5H8mAeeI2cdx-LBK1CoWnx37PDtt");
+    background-attachment:fixed;
+    background-size:cover;
+ 
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 650px;
+    transform: translate(-50%,-50%);
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 15px 50px rgba(0,0,0,.2);
+}
+.circle{
+    width:200px;
+    height:200px;
+    background:url("https://www.resourcelabel.com/wp-content/uploads/2017/10/group-shot-RLG.jpg");
+    border-radius:50%;
+    float:left;
+    shape-outside:circle();
+    margin:60px 30px 30px 0;
+}
+p {
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+    line-height: 22px;
+}
+h1{
+    font-size:30px;
+    padding:0;
+    margin:0 0 20px;
+}
