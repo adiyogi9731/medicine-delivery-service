@@ -1,2 +1,2 @@
 # medicine-delivery-service
-Online platform to deliver the medicine to directly  to customer. 
+Online platform to deliver the medicine directly  to customer. 
